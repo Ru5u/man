@@ -1,0 +1,77 @@
+
+
+.titlu{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+}
+.body{
+ background-color:cadetblue
+}
+.logo{
+ position:relative;
+ bottom: 80px;
+ left:21cm;
+ top:14px;
+ 
+}
+.image2{
+width: 50cm;
+height: 25cm;
+}
+
+a{
+  color: black;
+  left: 35cm;
+  bottom: 1.5cm;
+  position: realative;
+  bottom: 240px;
+  left: 36.4cm;
+  
+}
+#container1{
+  
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+li {
+  display: inline;
+  float: left;
+}
+/* Navbar format*/
+a {
+  display: block;
+  padding:8px;
+  background-color: #dddddd;
+  width: 100px;
+  word-spacing: 3px;
+  position: relative;
+  bottom: 240px;
+   left: 18cm;
+   
+
+}
+/* cuvinte navbar*/
+li a{
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  
+}
+/* culoare cuvinte atingere*/
+li a:hover {
+  background-color: lightyellow;
+}
+
+.live{
+  background-color:#dddddd;
+  color: black;
+}
+
+header{
+ 
+}
